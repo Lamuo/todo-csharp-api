@@ -7,3 +7,11 @@ A simple RESTful API built with **C# and ASP.NET Core Minimal APIs**, designed f
 - Full CRUD operations for to-do items
 - Entity Framework Core support (In-Memory or SQL Server)
 - Swagger / OpenAPI available (if configured)
+
+## License
+
+[MIT License](LICENSE)
+
+---
+
+Made by Alythia
